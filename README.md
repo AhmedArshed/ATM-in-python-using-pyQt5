@@ -14,7 +14,7 @@ To install the required packages, simply run the following command in your termi
 To run the ATM program, navigate to the src directory in your terminal and run the following command:
 
 
-```python main.py```
+```python welcome.py```
 
 This will start the application and display a login screen where you can enter your account number and PIN to access your account.
 
